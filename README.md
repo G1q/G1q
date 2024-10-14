@@ -3,9 +3,9 @@ Hi 👋 My name is Beresteanu George
 Junior Frontend Developer\
 🌍  I'm based in Bucharest\
 ✉️  You can contact me at [beresteanu.george@gmail.com](mailto:beresteanu.george@gmail.com)\
-🧠  I'm learning React, NodeJS\
+🧠  I'm learning React, NodeJS
 
-### Skills
+###Skills
 
 
 <p align="left">
